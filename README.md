@@ -1,1 +1,1 @@
-# progLanguageIntro-haskell
+Introduction to some programming languages - Haskell
